@@ -3,3 +3,4 @@ Simply speaking the internet works as a computerized mail service delivering dat
 Directories are organized folders on the web, used to direct and manage data for the user. Directories can be the parent/grandparent to subdirectories which hold the files you wish to access.
 Version Control Systems are very nice for artists who are developing an image or writing code and the system kept track of all the old versions of the current piece of work. Therefore one could go back and review and or start from. 
 ![](images/
+Its hard for me to choose a favorite type of art. I love both music and artwork such as paintings and pictures. But I also really applaud the worlds that are created in video games. I think being able to jump into a game and become fully immersed into the landscape and storyline is something beautiful. 
