@@ -1,0 +1,5 @@
+The internet is a global connection of networks and computers. whereas the World Wide Web is a global collection of hyperlinks and documents. 
+Simply speaking the internet works as a computerized mail service delivering data from your computer through the internet to its destination. Using IP (Internet Protocol) and TCP (Transport Control Protocol) working together to transmit data.
+Directories are organized folders on the web, used to direct and manage data for the user. Directories can be the parent/grandparent to subdirectories which hold the files you wish to access.
+Version Control Systems are very nice for artists who are developing an image or writing code and the system kept track of all the old versions of the current piece of work. Therefore one could go back and review and or start from. 
+![](images/
