@@ -4,6 +4,6 @@
 
 https://www.youtube.com/
 
-[Link to Responses](assignment-03/responses.txt)
+[Link to Responses](https://github.com/ChanceVenters/MART341-WebDesign/blob/master/assignment-03/responses.txt)
 
 ![Step 4 Photo with relative URL](https://github.com/ChanceVenters/MART341-WebDesign/blob/master/assignment-03/images/step%204.PNG) 
