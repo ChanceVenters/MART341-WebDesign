@@ -6,4 +6,4 @@ https://www.youtube.com/
 
 [Link to Responses](C:\Users\vente\OneDrive\Desktop\assignment-03\responses.txt)
 
-![Step 4 Photo with relative URL](C:\Users\vente\OneDrive\Desktop\assignment-03\images) 
+![Step 4 Photo with relative URL](assignment-03/images/step 4.PNG) 
