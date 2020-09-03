@@ -1,0 +1,4 @@
+1. Twitch.tv, youtube.com, amazon.com
+2. An IP Address is what is given to your computer as an identity on a network. A DNS (Domain Name Service) allows for the conversion of references into a server IP Address.
+3. A cookie when talking about computers is a tiny bit of data stored from your visit to a website, used to identify your computer upon arrival.
+4. Protocol, Domain Name, Path
