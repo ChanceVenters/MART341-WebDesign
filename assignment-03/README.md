@@ -1,4 +1,4 @@
-# Assignment
+# Assignment 3
 ## Chance Venters
 ### I have learned about atom, markdowns, and github. Learning a lot!
 
