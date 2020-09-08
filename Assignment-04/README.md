@@ -9,4 +9,4 @@ Markup language is a computerized language which uses tags to define desired res
 It was made so that humans may read and write it, which gets converted lastly into syntax.
 One of these language which I used today is HTML.
 
-![](C:\Users\vente\OneDrive\Desktop\Assignment-04\images\Assignment 4 completion image.jpg)
+![](Assignment-04/images/Assignment 4 completion image.jpg)
