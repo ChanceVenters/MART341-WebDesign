@@ -2,4 +2,4 @@ I went to yahoo from 1996 and it looked very simple and rudementary compared to 
 
 As far as these last couple topics have gone I have had to learn it all as they come since I haven't had previous knowledge on HTML or Markdown. I have found it very difficult but also enlightening to pick up.
 
-<img src="images\shel silverstein.jpg" />
+<img src="images\Assignment 5 commeration.MHT" />
