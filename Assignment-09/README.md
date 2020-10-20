@@ -1,0 +1,3 @@
+1. Learning HTML has been an all new process for me. I took this class in hopes of learning more about how webpages work and oh boy was I right. It has been a bit overwhelming not having much to any coding experience before but I feel as if i have a minor grasp on all of it now.
+2. I am definitely anxious in moving on to styling web pages since I still need to fully grasp the bones of the page, but i will continue to keep working on it.
+3. To be honest this entire class has been challenging but by looking at other coding samples and testing my codes, I have learned alot through trial and error. I also took all the feedback I've had and tried implementing it into my next project. 
